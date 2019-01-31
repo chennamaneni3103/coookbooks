@@ -1,0 +1,7 @@
+DEPENDENCIES
+  user-cookbook
+    path: .
+    metadata: true
+
+GRAPH
+  user-cookbook (0.1.0)
